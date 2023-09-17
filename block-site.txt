@@ -4,4 +4,5 @@
 ||phimsex.win^
 ||javhd.group^
 ||jav69.news^
-
+/^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
+/sex|jav/
